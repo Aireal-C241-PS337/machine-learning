@@ -14,3 +14,6 @@ The model will be trained using the binary_crossentropy loss function with the A
 ![accuracy line chart test](https://github.com/Aireal-C241-PS337/machine-learning/assets/100218015/121aa062-741e-4e79-bcaf-48cb4aca9a44)
 4. **Deploy Model to Production**<br>
 After the model is completed, it will be saved in [.H5 format](https://drive.google.com/file/d/1XXFRWWVcB_ERbSWkDyWmAYRukrMm5jTk/view). Next, the model is converted into a format that can be used by the Cloud Computing team for deployment using TensorFlow Serving.
+
+**Paper for Model's Architecture Reference**<br>
+K. Khajuria, K. Mehrotra and M. K. Gupta, "Blur Detection in Identity Images Using Convolutional Neural Network," 2019 Fifth International Conference on Image Information Processing (ICIIP), Shimla, India, 2019, pp. 332-337, doi: 10.1109/ICIIP47207.2019.8985888. keywords: {Feature extraction;Kernel;Image quality;Neural networks;Deep learning;Support vector machines;Databases;Image Quality Assessment;Blur Detection;Convolutional Neural Network;Data Augmentation}
